@@ -8,37 +8,37 @@ import { SiProgress, SiAntdesign } from "react-icons/si";
 export const featuresData = [
   {
     id: 1,
-    title: "Business Stratagy",
+    title: "Social Media Expert",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
-    title: "App Development",
+    title: "Security Agency",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
     id: 3,
     icon: <SiProgress />,
-    title: "SEO Optimisation",
+    title: "Franchise Development",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
     id: 4,
     icon: <FaMobile />,
-    title: "Mobile Development",
+    title: "Business Development",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
     id: 5,
     icon: <SiAntdesign />,
-    title: "UX Design",
+    title: "Elevator",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
   {
     id: 6,
     icon: <FaGlobe />,
-    title: "Hosting Websites",
+    title: "Consultancy services IT and non-IT",
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
   },
 ];
