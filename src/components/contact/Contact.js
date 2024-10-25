@@ -55,8 +55,8 @@ const Contact = () => {
     if (contactValidation()) {
       try {
         var data = {
-          service_id: "service_16cll47",
-          template_id: "template_8r05xve",
+          service_id: "service_hi7yd7r",
+          template_id: "template_jfpq9vc",
           user_id: "-1NF1mlZc2wnrzML_",
           template_params: {
             from_name: username,
@@ -78,7 +78,7 @@ const Contact = () => {
       } catch (error) {
         setError(`Server is busy, please try again later.`);
       }
-    };
+    }
   };
 
   return (
